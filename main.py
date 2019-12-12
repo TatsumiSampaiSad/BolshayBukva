@@ -5,7 +5,7 @@ def correct_sentence(text: str) -> str:
   return text 
 
 if __name__ == '__main__':
-    print("Example:")
+    print("Primer:")
     print(correct_sentence("greetings, friends"))
     
     # These "asserts" are used for self-checking and not for an auto-testing
